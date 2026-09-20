@@ -697,7 +697,7 @@
         'Abhi quiz portal': 'https://apexabhi54-cloud.github.io/abhi-quiz-portale/',
         'MyGov India': 'https://apexabhi54-cloud.github.io/my-goverment/',
         'Brain Battle Abhi': 'https://brainbattle9.blogspot.com/',
-        'Coders world portal': 'https://apexabhi54-cloud.github.io/corder-world-portal/'
+        'Coders world portal': 'https://apexabhi54-cloud.github.io/corder-world-portal/',
       };
 
       const url = projectUrls[title] && projectUrls[title].length > 0
